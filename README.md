@@ -1,5 +1,5 @@
 - Olá! Eu sou o @Duduu202, ou melhor, Eduardo Oliveira
-- Sou um estudante de Análise e Desenvolvimento de Sistemas (3º Semestre)
+- Sou um estudante de Análise e Desenvolvimento de Sistemas (4º Semestre)
 - Atualmente estou me aprofundando na orientação a objetos com Java
 
 Entre em contato comigo :)
