@@ -5,4 +5,3 @@
 Entre em contato comigo :)
 Edu.Ap.Oliveira2002@gmail.com  |  (11)943129449
 
-Currículo: https://drive.google.com/file/d/13OYL7z_R4eNV-Y1MJEfgo8yT9oYwa2IG/view?usp=sharing
