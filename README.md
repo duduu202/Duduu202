@@ -3,5 +3,5 @@
 - Gosto de programar usando Java, Javascript, Node e Banco de Dados
 
 Entre em contato comigo :)
-Edu.Ap.Oliveira2002@gmail.com  |  (11)943129449
+Edu.Ap.Oliveira2002@gmail.com
 
