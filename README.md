@@ -2,7 +2,7 @@
 <h3 align="center">Um desenvolvedor entusiasta pela tecnologia, tanto Hardware quanto Software</h3>
 
 <p align="center">
-  💻 Apaixonado por programação e manutenção de hardware.<br>
+  💻 Apaixonado por desenvolvimento de sistemas.<br>
   🚀 Sempre explorando novas tecnologias e desafios.<br>
   🎯 Focado em criar soluções criativas e eficientes.
 </p>
